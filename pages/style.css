@@ -148,14 +148,14 @@ footer{
       object-fit: cover;
       z-index: -1;
   }
-  
+/*   
   #bg-video::-webkit-media-controls {
       display: none !important;
   }
-  
+   */
   .video-overlay {
       position: absolute;
-      background-color: rgba(22,34,57,0.85);
+      background-color: rgba(22,34,57,0.75);
       top: 0;
       left: 0;
       bottom: 0px;
