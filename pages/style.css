@@ -6,9 +6,7 @@
 html {
     scroll-behavior: smooth;
   }
-.container-fluid{
-    height: 10vh;
-}
+
 .navbar-brand img{
     width: 70px;
     height: 70px;
@@ -20,34 +18,6 @@ html {
 .scroll a i:hover{
     font-size: 3rem;
 }
-/* .scroll {
-    line-height:50px;
-    height:50px;
-}
-.scroll a{
-    font-size: 2rem;
-}
-.scroll a:hover{
-    font-size: 3rem;
-} */
-/* .row1 {
-    background-image: url("https://scontent.ftun16-1.fna.fbcdn.net/v/t39.30808-6/283810463_106958962035851_5581323076529893108_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Vq8pGTxw_MsAX9P9qvC&_nc_ht=scontent.ftun16-1.fna&oh=00_AT89gqG249NgIGXC_7X56UGw9KqrOmP5wt5fYLKANQwpTg&oe=62C20952");
-    background-repeat: no-repeat;
-    background-size: 100% 100vh;
-    height: 100vh;
-    margin: 0px;
-    padding: 0px;
-}
-.zone1{
-    border-radius: 20px;
-    height: 100%;
-    background-color: rgba(41, 39, 39, 0.559);
-}
-.zone2{
-    border-radius: 20px;
-    height: 100%;
-    background-color: rgba(41, 39, 39, 0.559);
-} */
 
 /* Section 1*/
 .section_1 {
